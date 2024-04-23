@@ -1,0 +1,59 @@
+.counter-container {
+  text-align: center;
+  padding: 1px;
+  background-color: rgba(0, 0, 0, 1.0);
+}
+
+.count-display {
+  text-align: center;
+  margin-top: 180px;
+  margin-bottom: 50px;
+  font-size: 12rem;
+  font-family: Digital-7, Arial;
+  color: rgba(255, 0, 0, 1.0);
+}
+
+.counter-button-increment {
+  width:100px;
+  height: 30px;
+  border-radius: 50px;
+  border: none;
+  color: rgba(255, 255, 255, 1.0);
+  background-color: rgba(0, 255, 0, 1);
+  box-shadow: 0px 0px 20px rgba(0, 255, 0, 1);
+  cursor: pointer; 
+}
+
+.counter-button-decrement {
+  width:100px;
+  height: 30px;
+  border-radius: 50px;
+  border: none;
+  color: rgba(255, 255, 255, 1.0);
+  background-color: rgba(255, 0, 0, 1);
+  box-shadow: 0px 0px 20px rgba(255, 0, 0, 1);
+  cursor: pointer; 
+}
+
+.counter-button-reset {
+  width:100px;
+  height: 30px;
+  border-radius: 50px;
+  border: none;
+  color: rgba(255, 255, 255, 1.0);
+  background-color: rgba(0, 0, 255, 1);
+  box-shadow: 0px 0px 20px rgba(0, 0, 255, 1);
+  cursor: pointer; 
+}
+
+.counter-button-increment:hover{
+  background-color: rgba(0, 150, 0, 1.0);
+}
+
+.counter-button-decrement:hover{
+  background-color: rgba(150, 0, 0, 1.0);
+}
+
+.counter-button-reset:hover{
+  background-color: rgba(0, 0, 150, 1.0);
+}
