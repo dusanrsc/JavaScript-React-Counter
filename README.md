@@ -12,5 +12,3 @@ Currently, two official plugins are available:
 ![screenshot1](https://github.com/dusanrsc/JavaScript-React-Counter/assets/149257819/3d291728-c62f-455a-be34-541af10b20a7)
 ![screenshot2](https://github.com/dusanrsc/JavaScript-React-Counter/assets/149257819/06f150f4-7d9b-4ab0-a76d-7cc0fc9b1178)
 ![screenshot3](https://github.com/dusanrsc/JavaScript-React-Counter/assets/149257819/c8dac54e-2c3a-4f3c-b4f1-105d1eb7592c)
-
-![screenshot4]([https://github.com/dusanrsc/JavaScript-React-Counter/assets/149257819/c8dac54e-2c3a-4f3c-b4f1-105d1eb7592c](https://github.com/dusanrsc/JavaScript-React-Counter/blob/main/screenshots/screenshot3.png))
